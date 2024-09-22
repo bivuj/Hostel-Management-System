@@ -1,5 +1,5 @@
-# hostel-accommodation-using-mysql
-How to create Hostel Accommodation System in c++ using MySQL & OOP.
-If you want to watch the video for better understading about the given code then click on the given link:
-https://youtu.be/Bkb8goJRTJ8
- 
+* Developed a full-stack Hostel Management System with a C++ back-end.
+* Integrated MySQL database for managing hostel reservations.
+* Enabled users to book beds through a user-friendly interface.
+* Demonstrated proficiency in database management and full-stack development
+
